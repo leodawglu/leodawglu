@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Leo Lu @leodawglu
+- 🔗 Visit my portfolio website! https://leodawglu.github.io/portfolio/
 - 👀 I’m interested in cars, racing, pc gaming, the latest tech gadgets and of course, software engineering!
 - 🌱 I’m currently learning Python and looking into growing my knowledge in AI engineering.
 - 💞️ I’m looking to collaborate on anything Java and Python based.
